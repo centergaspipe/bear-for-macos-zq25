@@ -1,4 +1,4 @@
-
+Enhance Bear for macOS with custom Bear for macOS Utility | version history + OCR scanning, the #1 utility. Includes version history and OCR scanning for a smoother experience.
 
 
 
